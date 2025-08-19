@@ -65,13 +65,8 @@ This dashboard demonstrates skills students will master:
 - PhD Student in Machine Learning (Multimodal Fusion, Emotion Recognition)
 - Former Macroeconomic Modeler at National Bank of Kyrgyz Republic
 - Former Consultant at Deloitte US
-- MS Analytics from NC State University (Fulbright Scholar)
+- MS Analytics from NC State University
 
-## 📧 Contact
-
-- **Email:** nishmakh@students.kennesaw.edu
-- **Office Hours:** Tuesday/Thursday 2:00pm-3:15pm
-- **Course Schedule:** Tuesday/Thursday 12:30pm-1:45pm
 
 ---
 
